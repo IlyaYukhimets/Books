@@ -125,6 +125,7 @@ Books about Nodejs, Angular2, Agile, Clean Code, Docker, Golang, Microservices, 
 | software-development | [The Pragmatic Programmer.pdf](software-development/The%20Pragmatic%20Programmer.pdf)
 | tdd + bdd | [Design Driven Testing.pdf](tdd%20+%20bdd/Design%20Driven%20Testing.pdf)
 | tdd + bdd | [the-art-of-unit-testing.pdf](tdd%20+%20bdd/the-art-of-unit-testing.pdf)
+| tdd + bdd | [the-art-of-unit-testing_rus.pdf](https://djvu.online/file/vNqdfIUeFsSmf)
 | tdd + bdd | [BDD.pdf](tdd%20+%20bdd/BDD.pdf)
 | tdd + bdd | [scala-test-driven-development.pdf](tdd%20+%20bdd/scala-test-driven-development.pdf)
 | tdd + bdd | [Test Driven.pdf](tdd%20+%20bdd/Test%20Driven.pdf)
